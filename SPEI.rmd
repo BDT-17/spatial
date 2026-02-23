@@ -197,7 +197,7 @@ pacman::p_load(
 
 ```{r}
 basins <- terra::vect(
-  "hydrobasins_l6/hydrobasins_l6/hydrobasin_L6_SE-ASIA.shp"
+  "hydrobasins_l6/hydrobasin_L6_SE-ASIA.shp"
 )
 basins
 names(basins)
